@@ -1,0 +1,111 @@
+{
+  "Albums": [
+    {
+      "id": 1,
+      "title": "Tamally Maak",
+      "year": 2000,
+      "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
+      "songs": {
+        "song 1": "El Alem Allah",
+        "song 2": "Tamally Maak",
+        "song 3": "Keda Einy Einak",
+        "song 4": "We Heya Amla Eh",
+        "song 5": "Seneen",
+        "song 6": "Aamel Eh",
+        "song 7": "Law Kan Yerdek",
+        "song 8": "Baateref",
+        "song 9": "Qalby Ekhtarak",
+        "song 10": "Saaban Alaya"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Leily Nahary",
+      "year": 2004,
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/88/Leily-Nahary-album.jpg?20110418113103",
+      "songs": {
+        "song 1": "Lealy Nahary",
+        "song 2": "Wahashtiny ",
+        "song 3": "Tinsa Wahda",
+        "song 4": "Khad Alby Ma'ah",
+        "song 5": "Ye Douk El Bab",
+        "song 6": "Dayman Fi Baly",
+        "song 7": "Khaleena Neshofak",
+        "song 8": "Qusad Einy",
+        "song 9": "Illa Heya",
+        "song 10": "Rihet El Habayib"
+      }
+    },
+    {
+      "id": 3,
+      "title": "El Lilady",
+      "year": 2007,
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/97/Amr_Diab_-_El_Lilady.jpg",
+      "songs": {
+        "song 1": "Ne'oul Aih",
+        "song 2": "El Lilady ",
+        "song 3": "Toul Mana Shaifak",
+        "song 4": "Hikayat",
+        "song 5": "Enta El Ghaly",
+        "song 6": "Rohy Mertahalak",
+        "song 7": "Aletly Oul",
+        "song 8": "We Fehmt Einik",
+        "song 9": "Dehket",
+        "song 10": "Khalik Ma'aya"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Nour El Ain",
+      "year": 1996,
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/82/Nour_el_ain.jpg",
+      "songs": {
+        "song 1": "Ewediny",
+        "song 2": "Leela Men omry ",
+        "song 3": "Men Awel Mara",
+        "song 4": "Mesh Had3af",
+        "song 5": "Nafs El Makan",
+        "song 6": "Nour El Ain",
+        "song 7": "Yomenhom",
+        "song 8": "Ayzeen Yeghayyarook"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Amarain",
+      "year": 1999,
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/99/Amarain-album-by-amr-diab.jpg",
+      "songs": {
+        "song 1": "Amarain",
+        "song 2": "Ana ",
+        "song 3": "Albey",
+        "song 4": "Bahibak Aktar",
+        "song 5": "Betuhashney",
+        "song 6": "Wi lsa Bethibahw",
+        "song 7": "Khalik Fakirney ",
+        "song 8": "Hikayatey"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Aktar Wahed",
+      "year": 2001,
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/68/Akter-wahed-album-by-amr-diab.jpg",
+      "songs": {
+        "song 1": "Wala Ala Balo",
+        "song 2": "Aktar Wahed ",
+        "song 3": "Kan Tayeb",
+        "song 4": "Baed El layali ",
+        "song 5": "Kolt Aih",
+        "song 6": "Wala Lila",
+        "song 7": "Adeni Regeatelk",
+        "song 8": "Sadakny Khalas",
+        "song 9": "Ahebek Akrahek",
+        "song 10": "Ya Habiby La"
+      }
+    }
+  ],
+  "Posts": [
+   
+  ]
+}

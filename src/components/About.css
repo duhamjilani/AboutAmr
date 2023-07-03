@@ -1,0 +1,54 @@
+.BigContainer1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+   
+  
+   
+}
+h1{
+  color:black
+}
+.LeftSide{
+   margin-left: 20px;
+   align-items: center;
+   justify-content: center;
+   
+  
+   
+}
+p{
+    font-weight: 600;
+    font-size: 20px;
+}
+.RightSide{
+
+    margin-top: 10px;
+}
+@media(max-width: 768px) {
+  .BigContainer1{
+    justify-content: center;
+    align-items: baseline;
+    
+  }
+  .SIZE{
+    height: 30%;
+    width:60%
+    
+  }
+  .LeftSide{
+    margin-left: 10px;}
+}
+p{
+  font-weight: 600;
+  font-size: 15px;
+}
+.RightSide{
+  margin-left: 0px;
+    margin-top: 10px;
+}
+h1{
+  margin-left: 0;
+}

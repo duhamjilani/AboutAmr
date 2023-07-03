@@ -1,0 +1,19 @@
+.SongsStyle{
+    height: 80vh;
+    width:50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.SongsStyle ul li{
+    padding: 10px;
+   font-size: 30px;
+   border: 1px black solid;
+}
+
+@media(max-width: 768px) {
+    .SongsStyle ul li{
+        padding: 5px;
+       font-size: 25px;
+    }
+}

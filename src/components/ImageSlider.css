@@ -1,0 +1,13 @@
+.slider-container{
+    width:97%;
+    margin: auto;
+   margin-top: 20px;
+}
+.SizeImage{
+    width: 100%;
+}
+.SizeImage img{
+    width:100%;
+    height:600px;
+    
+}
